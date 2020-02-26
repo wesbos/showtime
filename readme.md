@@ -22,3 +22,4 @@ Deploy your own clone of this app to Begin!
 - [Creating new routes](https://docs.begin.com/en/functions/creating-new-functions) - basics on expanding the capabilities of your app
 
 Head to [docs.begin.com](https://docs.begin.com/) to learn more!
+
