@@ -7,6 +7,7 @@ goat-vhi
 get /todos
 post /todos
 post /todos/delete
+get /scrape
 
 @tables
 data
