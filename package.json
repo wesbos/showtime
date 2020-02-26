@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Begin basic CRUD app",
   "scripts": {
-    "start": "cross-env NODE_ENV=testing npx sandbox"
+    "start": "cross-env NODE_ENV=testing NODE_OPTIONS=--experimental-modules npx sandbox"
   },
   "devDependencies": {
     "@architect/sandbox": "latest",

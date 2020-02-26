@@ -2,6 +2,7 @@
   "name": "begin-app-get-scrape",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest"
+    "@begin/data": "latest",
+    "puppeteer": "^2.1.1"
   }
 }
