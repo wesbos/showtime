@@ -1,0 +1,8 @@
+{
+  "name": "begin-app-post-todos",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest",
+    "nanoid": "^2.1.6"
+  }
+}

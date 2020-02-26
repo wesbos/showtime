@@ -1,0 +1,12 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "Begin basic CRUD app",
+  "scripts": {
+    "start": "cross-env NODE_ENV=testing npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "latest",
+    "cross-env": "^6.0.3"
+  }
+}

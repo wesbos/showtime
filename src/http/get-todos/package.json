@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-todos",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

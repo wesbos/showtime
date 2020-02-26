@@ -1,2 +1,0 @@
-# showtime
-Begin app
