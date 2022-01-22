@@ -3,6 +3,6 @@
   "dependencies": {
     "@architect/functions": "latest",
     "@begin/data": "latest",
-    "nanoid": "^2.1.6"
+    "nanoid": "^3.1.31"
   }
 }
